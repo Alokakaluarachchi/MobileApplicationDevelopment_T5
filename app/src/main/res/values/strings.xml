@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IT18216424_Tute05</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_contact_number">Enter your contact number</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
